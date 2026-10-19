@@ -1,0 +1,16 @@
+# Checkpoints volumineux et fichiers téléchargés pour l'entraînement
+/models/
+/data/aravec/
+
+# Dépendances et contrôle de mise en page du compte-rendu
+/.docx_deps/
+/.qa_docx/
+/build_compte_rendu.py
+/TP2_Compte_rendu_Hamza_EL_ATTAR.docx
+
+# Fichiers temporaires usuels
+/.venv/
+/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.zip

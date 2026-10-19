@@ -1,0 +1,6 @@
+model,latence_cpu_ms_par_tweet,taille_modele_Mo
+A_tfidf,2.1473728999808372,6.50569
+C_aravec_degele_transformer,1.696127549985249,7.393689
+D2_attention,120.27915500002564,544.722715
+E1_marbert_seed42,102.18733760002578,651.438723
+E2_arabert_lam0.3_seed42,119.19388450000952,540.858058
